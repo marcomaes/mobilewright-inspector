@@ -1,0 +1,40 @@
+{
+  "name": "mobilewright-inspector",
+  "version": "0.1.0",
+  "description": "Visual element inspector for mobilewright — shows locators for every element on your connected iOS or Android device.",
+  "type": "module",
+  "main": "src/server/index.js",
+  "engines": {
+    "node": ">=18.2.0"
+  },
+  "scripts": {
+    "start": "node src/server/index.js",
+    "dev": "node --watch src/server/index.js",
+    "test": "node --test tests/**/*.test.js"
+  },
+  "keywords": [
+    "mobilewright",
+    "mobile",
+    "inspector",
+    "ios",
+    "android",
+    "locator",
+    "test-automation",
+    "appium"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcomaes/mobilewright-inspector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcomaes/mobilewright-inspector/issues"
+  },
+  "homepage": "https://github.com/marcomaes/mobilewright-inspector#readme",
+  "license": "MIT",
+  "dependencies": {
+    "@mobilewright/core": "0.0.46",
+    "@mobilewright/protocol": "0.0.46",
+    "express": "5.0.0",
+    "mobilewright": "0.0.46"
+  }
+}
