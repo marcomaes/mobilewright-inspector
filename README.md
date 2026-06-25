@@ -10,6 +10,8 @@ A local web app that shows you exactly what [mobilewright](https://github.com/mo
 
 ## What it does
 
+![Mobilewright Inspector showing the iOS Settings app with element locators listed on the right](docs/screenshot.png)
+
 Mobilewright Inspector splits your screen in two:
 
 - **Left** — a live screenshot of your connected device or simulator
