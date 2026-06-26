@@ -39,7 +39,7 @@ Locators follow mobilewright's own priority order: `getByTestId` > `getByRole` >
 
 ## Prerequisites
 
-- **Node.js >= 18.2.0**
+- **Node.js >= 24.0.0**
 - A connected iOS device or booted simulator, **or** a connected Android device or running emulator
 - mobilewright's own prerequisites for your platform — see the [mobilewright documentation](https://github.com/mobile-next/mobilewright) for setup instructions (Xcode / Android SDK / ADB)
 
