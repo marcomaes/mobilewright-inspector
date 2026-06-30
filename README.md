@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/marcomaes/mobilewright-inspector/actions/workflows/ci.yml/badge.svg)](https://github.com/marcomaes/mobilewright-inspector/actions/workflows/ci.yml)
 
+> ⚠️ This repo is no longer maintained. Functionality has been merged into [mobilewright](https://github.com/mobile-next/mobilewright) — use it there.
+
 A local web app that shows you exactly what [mobilewright](https://github.com/mobile-next/mobilewright) sees on your connected device — and which locator it would use to target each element.
 
 > **Not affiliated with MobileNext.** This is an independent fan project. I found myself constantly writing throwaway test scripts just to figure out the right locator for an element. A lot of people in the mobilewright community were asking for something like this, so I built it and decided to share it.
