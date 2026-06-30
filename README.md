@@ -3,6 +3,7 @@
 [![CI](https://github.com/marcomaes/mobilewright-inspector/actions/workflows/ci.yml/badge.svg)](https://github.com/marcomaes/mobilewright-inspector/actions/workflows/ci.yml)
 
 > ⚠️ This repo is no longer maintained. Functionality has been merged into [mobilewright](https://github.com/mobile-next/mobilewright) — use it there.
+> The PR where my code is merged into Mobilewright can be found [here](https://github.com/mobile-next/mobilewright/pull/213). Huge thanks to [Gil Megidish](https://github.com/gmegidish) for his amazing product.
 
 A local web app that shows you exactly what [mobilewright](https://github.com/mobile-next/mobilewright) sees on your connected device — and which locator it would use to target each element.
 
